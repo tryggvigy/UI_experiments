@@ -1,0 +1,10 @@
+circle,
+path {
+  stroke: #000;
+}
+path {
+  fill-opacity: .1;
+}
+path:hover {
+  fill-opacity: .3;
+}

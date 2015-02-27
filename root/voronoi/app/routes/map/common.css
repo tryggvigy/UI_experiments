@@ -1,0 +1,6 @@
+* {margin: 0; box-sizing: border-box;}
+html {font-size: 10px; }
+body {font-size: 1.6rem;}
+h1 {font-size: 3rem; text-align: center; margin-top: 1rem;}
+nav ul{list-style: none;}
+svg {display: block; margin: 0 auto;}

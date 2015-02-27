@@ -1,0 +1,11 @@
+#polygon_container circle {
+  stroke: #000;
+}
+#polygon_container path {
+  fill-opacity: 0;
+}
+
+.toggle_grid {
+  margin: 0 auto;
+  display: block;
+}

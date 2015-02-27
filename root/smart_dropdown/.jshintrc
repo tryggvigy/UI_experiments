@@ -1,0 +1,10 @@
+{
+  "globalstrict": true,
+  "validthis": true,
+  "browser": true,
+  "devel": true,
+  "globals": {
+    "jQuery": false,
+    "$": true
+  }
+}

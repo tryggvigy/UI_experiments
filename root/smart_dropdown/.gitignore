@@ -1,0 +1,7 @@
+logs/*
+!.gitkeep
+node_modules/
+app/bower_components/
+dist/
+.sass-cache/
+npm-debug.log
